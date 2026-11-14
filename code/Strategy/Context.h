@@ -23,6 +23,7 @@ public:
 	
 private:
 	Strategy *m_pStrategy;
+	//定义m_pStrategy指针
 
 };
 #endif // !defined(EA_0DA87730_4DEE_4392_9BAF_4AC64A8A07A4__INCLUDED_)
